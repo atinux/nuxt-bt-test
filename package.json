@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-bt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap-vue": "^2.0.0-rc.11",
+    "nuxt-edge": "^2.0.0-25549450.31d25df"
+  }
+}
